@@ -1,5 +1,5 @@
 # jcircuitbreaker
 
-repo @ bitbucket:
+repos @ bitbucket:
 
-https://bitbucket.org/jcircuitbreaker/jcircuitbreaker-core
+https://bitbucket.org/account/user/jcircuitbreaker/projects/JCIR
