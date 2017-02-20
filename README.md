@@ -2,4 +2,4 @@
 
 repos @ bitbucket:
 
-https://bitbucket.org/account/user/jcircuitbreaker/projects/JCIR
+https://bitbucket.org/secodonet/jcircuitbreaker-core
